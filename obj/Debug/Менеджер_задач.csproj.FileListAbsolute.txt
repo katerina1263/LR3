@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Менеджер_задач\bin\Debug\Менеджер_задач.exe.config
+C:\Users\Пользователь\source\repos\Менеджер_задач\bin\Debug\Менеджер_задач.exe
+C:\Users\Пользователь\source\repos\Менеджер_задач\bin\Debug\Менеджер_задач.pdb
+C:\Users\Пользователь\source\repos\Менеджер_задач\obj\Debug\Менеджер_задач.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Менеджер_задач\obj\Debug\Менеджер_задач.Form1.resources
+C:\Users\Пользователь\source\repos\Менеджер_задач\obj\Debug\Менеджер_задач.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Менеджер_задач\obj\Debug\Менеджер_задач.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Менеджер_задач\obj\Debug\Менеджер_задач.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Менеджер_задач\obj\Debug\Менеджер_задач.exe
+C:\Users\Пользователь\source\repos\Менеджер_задач\obj\Debug\Менеджер_задач.pdb

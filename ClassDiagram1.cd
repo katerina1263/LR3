@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Менеджер_задач.UserTask">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Менеджер_задач.TaskManagerFacade">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAACAAAAAABAIAABAAAAAAAAAAAA=</HashCode>
+      <FileName>TaskManagerFacade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Менеджер_задач.TaskManagerException">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TaskManagerException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Менеджер_задач.TaskManager">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAAAAAAAgAAAAAAAAAgABAAAgAQAAAAAAAAAA=</HashCode>
+      <FileName>TaskManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Менеджер_задач.ITaskManagerFacade">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAABAIAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ITaskManagerFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Менеджер_задач.ITaskManager">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAAAAAAAgAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITaskManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Менеджер_задач.TaskStatus">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>UserTask.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
